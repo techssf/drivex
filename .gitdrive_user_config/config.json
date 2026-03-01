@@ -4,7 +4,7 @@
     "repo": "drivex"
   },
   "displayName": "My Drivex",
-  "viewMode": "grid",
+  "viewMode": "list",
   "sortBy": "name",
   "sortOrder": "asc",
   "showHiddenFiles": true,
