@@ -1,0 +1,12 @@
+{
+  "defaultRepo": {
+    "owner": "techssf",
+    "repo": "drivex"
+  },
+  "displayName": "My Drivex",
+  "viewMode": "grid",
+  "sortBy": "name",
+  "sortOrder": "asc",
+  "showHiddenFiles": false,
+  "uploadLimitMB": 100
+}
